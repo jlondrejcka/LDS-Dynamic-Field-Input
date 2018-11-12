@@ -1,0 +1,944 @@
+[
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542048931127,
+            "changeTime": 1542048931127,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542048931127,
+            "changeTime": 1542048931127,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1542055476378,
+            "changeTime": 1542055476378,
+            "contentHash": "a42b6a815af45973ee4b23554b78328e27298b9f"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542055475925,
+            "changeTime": 1542055475925,
+            "contentHash": "7784373b907bc65e48dbea600a9a5bd0756a31eb"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1542052482483,
+            "changeTime": 1542052482483,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInput.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInput.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1542055475928,
+            "changeTime": 1542055475928,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInput.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInput.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 824,
+            "modifiedTime": 1542055475937,
+            "changeTime": 1542055475937,
+            "contentHash": "d8126e6f026603870c5ec6791ea7dab6ed9f2a2d"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInputController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInputController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 534,
+            "modifiedTime": 1542055475938,
+            "changeTime": 1542055475938,
+            "contentHash": "be26b820d1bc9754dbe473a6c2e08faa1f39b7e4"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInput.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput/dynamicFieldInput.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 154,
+            "modifiedTime": 1542055475938,
+            "changeTime": 1542055475938,
+            "contentHash": "4551c92521a57901c4971609ddabf8ae7476da2d"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/Lead.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/Lead.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4149,
+            "modifiedTime": 1542055476002,
+            "changeTime": 1542055476002,
+            "contentHash": "3ccc744950e9f14b20ec29acffc7464b675eb8b6"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Address.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Address.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1542055476003,
+            "changeTime": 1542055476003,
+            "contentHash": "3dde1472af932cd1fe851e00b6d397370cc3ef09"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/AnnualRevenue.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1542055476003,
+            "changeTime": 1542055476003,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/CampaignId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/CampaignId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 176,
+            "modifiedTime": 1542055476004,
+            "changeTime": 1542055476004,
+            "contentHash": "bcbf6f6135d7cfd40bc7e669fe11ea8a49a9cad7"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/CleanStatus.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1542055476004,
+            "changeTime": 1542055476004,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Company.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Company.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1542055476005,
+            "changeTime": 1542055476005,
+            "contentHash": "ba1f936c0338dbd1148561ff725c3fc8562c1397"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/CompanyDunsNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/CompanyDunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1542055476006,
+            "changeTime": 1542055476006,
+            "contentHash": "ca1ba65745b5eecad3b9d1c44dbb719d94437bf5"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/DandbCompanyId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1542055476006,
+            "changeTime": 1542055476006,
+            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1542055476006,
+            "changeTime": 1542055476006,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/DoNotCall.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/DoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1542055476007,
+            "changeTime": 1542055476007,
+            "contentHash": "a69a1b0e3f0e15fe44c968e2d0c859d8a264cb1a"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Email.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Email.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1542055476010,
+            "changeTime": 1542055476010,
+            "contentHash": "59513f0c3aba9cf2ca1fa13dd33c44eba996ef42"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Fax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1542055476011,
+            "changeTime": 1542055476011,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/HasOptedOutOfEmail.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/HasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1542055476011,
+            "changeTime": 1542055476011,
+            "contentHash": "ff5f1905a424ffb80a86c672ce8a2484010686e7"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/HasOptedOutOfFax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/HasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1542055476012,
+            "changeTime": 1542055476012,
+            "contentHash": "8436af1a1e25d1251260bd40b57c3d17b97ff22d"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Industry.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1542055476025,
+            "changeTime": 1542055476025,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Jigsaw.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1542055476033,
+            "changeTime": 1542055476033,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/LastTransferDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/LastTransferDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 158,
+            "modifiedTime": 1542055476036,
+            "changeTime": 1542055476036,
+            "contentHash": "122ea00fa1906924b212a4d119a56b1df3bd79ff"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/LeadSource.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1542055476037,
+            "changeTime": 1542055476037,
+            "contentHash": "2edc10a4308166ada8b0fc2bece939fb3eea84b8"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/MobilePhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/MobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1542055476037,
+            "changeTime": 1542055476037,
+            "contentHash": "877087142debc4ed3ae3ae152908d60f1e5b8e4e"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Name.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1542055476038,
+            "changeTime": 1542055476038,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/NumberOfEmployees.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1542055476038,
+            "changeTime": 1542055476038,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1542055476042,
+            "changeTime": 1542055476042,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Phone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1542055476061,
+            "changeTime": 1542055476061,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Rating.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1542055476078,
+            "changeTime": 1542055476078,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Status.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Status.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1542055476091,
+            "changeTime": 1542055476091,
+            "contentHash": "4695531ecdd75f54fb8a03cb7f14e73ffbd13c93"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Title.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Title.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1542055476091,
+            "changeTime": 1542055476091,
+            "contentHash": "8a48fbd36a0119a80ca1a7b0a48a57b35bd03141"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Website.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields/Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1542055476105,
+            "changeTime": 1542055476105,
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5119,
+            "modifiedTime": 1542055476224,
+            "changeTime": 1542055476224,
+            "contentHash": "771b062e2a3f690dd566923eac8021d9d17da049"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1542055476225,
+            "changeTime": 1542055476225,
+            "contentHash": "a5c3f07ba3a348335908401256dd2d9998990fcf"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1542055476226,
+            "changeTime": 1542055476226,
+            "contentHash": "84c07618a25ba4a26dcbb7fdea901e9cfb7bdfea"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1542055476228,
+            "changeTime": 1542055476228,
+            "contentHash": "d7e98ed90f81499c3b80a6121310c8e81353db12"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1542055476236,
+            "changeTime": 1542055476236,
+            "contentHash": "104e9a00a8886c6a98a247cf4d799fca91cb5cf6"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/CleanStatus.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1542055476237,
+            "changeTime": 1542055476237,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1542055476240,
+            "changeTime": 1542055476240,
+            "contentHash": "3b56db2ab17440e863bd220f7b949c6666a8aa21"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1542055476242,
+            "changeTime": 1542055476242,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1542055476243,
+            "changeTime": 1542055476243,
+            "contentHash": "a69a1b0e3f0e15fe44c968e2d0c859d8a264cb1a"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1542055476246,
+            "changeTime": 1542055476246,
+            "contentHash": "59513f0c3aba9cf2ca1fa13dd33c44eba996ef42"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1542055476254,
+            "changeTime": 1542055476254,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1542055476256,
+            "changeTime": 1542055476256,
+            "contentHash": "ff5f1905a424ffb80a86c672ce8a2484010686e7"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1542055476261,
+            "changeTime": 1542055476261,
+            "contentHash": "8436af1a1e25d1251260bd40b57c3d17b97ff22d"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1542055476275,
+            "changeTime": 1542055476275,
+            "contentHash": "0bf76b491bbd8c15dd147134365be4f3c3f46c31"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1542055476277,
+            "changeTime": 1542055476277,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 159,
+            "modifiedTime": 1542055476285,
+            "changeTime": 1542055476285,
+            "contentHash": "dda4a3e4f235d3020ac7ec9ecad60f97db34e5ff"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 158,
+            "modifiedTime": 1542055476287,
+            "changeTime": 1542055476287,
+            "contentHash": "831121050c56f562af9389f75edae3a5ab0351f1"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1542055476289,
+            "changeTime": 1542055476289,
+            "contentHash": "2edc10a4308166ada8b0fc2bece939fb3eea84b8"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1542055476294,
+            "changeTime": 1542055476294,
+            "contentHash": "2aee360d036169b3a3b599183c72b43d549f6b61"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1542055476295,
+            "changeTime": 1542055476295,
+            "contentHash": "877087142debc4ed3ae3ae152908d60f1e5b8e4e"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1542055476303,
+            "changeTime": 1542055476303,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1542055476304,
+            "changeTime": 1542055476304,
+            "contentHash": "dd9820d5134fc39ed321237cbdef5a60b5776771"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1542055476305,
+            "changeTime": 1542055476305,
+            "contentHash": "3d50c3aaf57f7e42a001693e02e91ae0222af0e8"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1542055476305,
+            "changeTime": 1542055476305,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1542055476306,
+            "changeTime": 1542055476306,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1542055476311,
+            "changeTime": 1542055476311,
+            "contentHash": "7252f1ae0d0fff985c8d3d75c2c66b704d304262"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1542055476322,
+            "changeTime": 1542055476322,
+            "contentHash": "8a48fbd36a0119a80ca1a7b0a48a57b35bd03141"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6274,
+            "modifiedTime": 1542055476386,
+            "changeTime": 1542055476386,
+            "contentHash": "7b9954037bc6900f6af2237f6c4e65ec2be4de58"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/flexipages/Lead_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/flexipages/Lead_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5546,
+            "modifiedTime": 1542055476407,
+            "changeTime": 1542055476407,
+            "contentHash": "70f453167f49df137855ded7181a644dc46e5313"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/aura/dynamicFieldInput",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542055475938,
+            "changeTime": 1542055475938,
+            "contentHash": "1ba7cfa83e15c4fb3bc69baf8773a354d8eb30bc"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542055476002,
+            "changeTime": 1542055476002,
+            "contentHash": "690254323c3f4bdf019f907b12e233cde46cbc08"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542055476221,
+            "changeTime": 1542055476221,
+            "contentHash": "6651099e9d8335163432ae5f8610433cba756362"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Lead/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 896,
+            "modifiedTime": 1542055476105,
+            "changeTime": 1542055476105,
+            "contentHash": "7e0a63cbcbce08c975532bc9edec2844bedf4b3e"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542055476225,
+            "changeTime": 1542055476225,
+            "contentHash": "47adfd5ffb5b99db19f7f5b167792192778dbb7e"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 896,
+            "modifiedTime": 1542055476321,
+            "changeTime": 1542055476321,
+            "contentHash": "3677d481b57457ecc6349e8034c236ff661b606f"
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/dynamicInputField/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542055476406,
+            "changeTime": 1542055476406,
+            "contentHash": "60e1b1aad3d8a4c97cddbbf6fbb3de044d9b8431"
+        }
+    ]
+]

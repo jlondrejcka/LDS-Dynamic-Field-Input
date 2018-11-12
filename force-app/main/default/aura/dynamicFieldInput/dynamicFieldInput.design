@@ -1,0 +1,3 @@
+<design:component>
+	<design:attribute name="objectField" label="Field" description="API name of the field you want to auto search." />
+</design:component>
